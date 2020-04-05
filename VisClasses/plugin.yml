@@ -1,0 +1,8 @@
+main: me.Viscar.VisClasses.Main
+name: VisClasses
+api-version: 1.13
+version: 1.0
+author: Viscar
+description: Test for armor based classes
+commands:
+   vc:
